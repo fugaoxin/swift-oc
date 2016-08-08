@@ -499,6 +499,7 @@
 				ECD540951D49F2B3006F7708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECD540961D49F2B3006F7708 /* Build configuration list for PBXNativeTarget "Swift-OCTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +508,7 @@
 				ECD540981D49F2B3006F7708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECD540991D49F2B3006F7708 /* Build configuration list for PBXNativeTarget "Swift-OCUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +517,7 @@
 				ECD5409B1D49F2B3006F7708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
